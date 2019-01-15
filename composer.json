@@ -1,0 +1,7 @@
+{
+    "name": "ramazantufekci/travis-php",
+    "description": "Deneme Travis",
+    "license": "GPL",
+    "minimum-stability": "beta",
+    "require": {}
+}
