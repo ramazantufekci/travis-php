@@ -6,4 +6,4 @@ php:
   - hhvm # on Trusty only
   - nightly
 install:
-   - php travis-php/index.php
+   - php ramazantufekci/travis-php/index.php
