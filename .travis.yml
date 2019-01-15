@@ -6,4 +6,4 @@ php:
   - hhvm # on Trusty only
   - nightly
 install:
-   - php index.php
+   - phpunit --bootstrap index.php
